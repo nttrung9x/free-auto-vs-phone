@@ -1,4 +1,4 @@
-# Tools Điều Khiển Điện Thoại Samsung galaxy S7 - Chip Exynos
+# Phần Mềm Nuôi Accouns Facebook Trên Điện Thoại SamSung S7 - Chip Exynos
 
 # Thuật ngữ
 1. Devices ( điện thoại android samsung galaxy s7 )
