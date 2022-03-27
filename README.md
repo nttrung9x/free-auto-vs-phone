@@ -46,28 +46,8 @@ Trước khi mở tools thì phải mở cmd lên và run này trước: node ap
 5. Xong qua tab ( Actions ) Chọn các hành động mà bạn muốn chạy
 6. Quay lại tab ( Main ) Bấm "Start"
 
+# Nhóm Hổ Trợ
 
+Zalo: https://zalo.me/g/eykktu219
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.facebook.com/hkvn9x/
-.
+Facebook: https://www.facebook.com/hkvn9x/
