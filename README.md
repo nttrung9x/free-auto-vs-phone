@@ -12,6 +12,10 @@
 2. Tải tools:
 3. Giải nén vào đường dẫn càng ngắn càng tốt và không có khoãng trắng trong đường dẫn đến file tools
 
+( Ko cài vào ổ cài windows nha )
+
+Ví dụ: D:\VSPhone\VSPhone.exe
+
 # Tools chạy tốt trên windows 10 x64 bit
 
 # Chuẩn bị điện thoại để chạy tools
@@ -37,7 +41,7 @@
 
 # Sử dụng
 
-Trước khi mở tools thì phải mở cmd lên và run này trước: node appium --port 5566
+Trước khi mở tools thì phải mở cmd lên và run lệnh này trước: node appium --port 5566
 
 1. Mua tài khoản clone hoặc VIA
 2. Mở tools và Thêm Tài Khoản
