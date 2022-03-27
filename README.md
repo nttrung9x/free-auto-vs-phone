@@ -23,9 +23,51 @@
 5. Cài Xposed v35:
 6. Cài hết những app sau:
 
+# Cài ứng dụng hổ trợ trên máy tính
+
+1. Cài Nodejs bản LTS mới nhất: https://nodejs.org/en/
+2. Cài xong thì reset lại máy tính
+3. Mở CMD lên chạy lệnh: npm -g install appium
+
 # Thử Nghiệm Changer Devices
 
 1. Sau khi cài xong hết thì reset lại devices
 2. Mở tools và Bấm ( Test Changer Device )
 3. Mở app ( My Device ) để xem info máy đã thay đổi hay chưa
 
+# Sử dụng
+
+Trước khi mở tools thì phải mở cmd lên và run này trước: node appium --port 5566
+
+1. Mua tài khoản clone hoặc VIA
+2. Mở tools và Thêm Tài Khoản
+3. Qua Tab ( Network ) Chọn 4G hoặc Proxy nếu bạn dùng proxy 
+4. Nếu bạn dùng proxy thì quay lại tab Main, quét list tài khoản và chuột phải chọn paste Proxy
+5. Xong qua tab ( Actions ) Chọn các hành động mà bạn muốn chạy
+6. Quay lại tab ( Main ) Bấm "Start"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.facebook.com/hkvn9x/
+.
